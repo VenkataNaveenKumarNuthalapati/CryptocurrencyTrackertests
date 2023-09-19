@@ -1,0 +1,24 @@
+.ul-container {
+  list-style-type: none;
+  border-style: solid;
+  border-color: #00e7ff;
+  border-width: 2px;
+  border-radius: 10px;
+  padding: 2px;
+}
+.table-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #092e33;
+  list-style-type: none;
+  padding: 10px;
+  font-weight: bold;
+}
+.euros {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 20%;
+}
